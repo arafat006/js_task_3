@@ -2,79 +2,79 @@ let productList = [
 	
 	//shirt type
 	{
-		"url": "../img/shirt-type-a.jpg",
-		"name": "Shirt Type A",
+		"url": "img/shirt-type-a.jpg",
+		"name": "gray-purple Check Shirt",
 		"price": 750.00,
 	},
 	{
-		"url": "../img/shirt-type-b.jpg",
-		"name": "Shirt Type B",
+		"url": "img/shirt-type-b.jpg",
+		"name": "Black stylish branded shirt for men",
 		"price": 350.00,
 	},
 	{
-		"url": "../img/shirt-type-c.jpg",
-		"name": "Shirt Type C",
+		"url": "img/shirt-type-c.jpg",
+		"name": "Full red shirt (1 color)",
 		"price": 550.00,
 	},
 	{
-		"url": "../img/shirt-type-d.jpg",
-		"name": "Shirt Type D",
+		"url": "img/shirt-type-d.jpg",
+		"name": "Stylish shirt 2",
 		"price": 450.00,
 	},
 	{
-		"url": "../img/shirt-type-e.jpg",
-		"name": "Shirt Type E",
+		"url": "img/shirt-type-e.jpg",
+		"name": "Blue Stylish shirt for men",
 		"price": 450.00,
 	},
 	//tshirt type
 	{
-		"url": "../img/tshirt-type-a.jpg",
+		"url": "img/tshirt-type-a.jpg",
 		"name": "T-Shirt Type A",
 		"price": 670.00,
 	},
 	{
-		"url": "../img/tshirt-type-b.jpg",
+		"url": "img/tshirt-type-b.jpg",
 		"name": "T-Shirt Type B",
 		"price": 240.00,
 	},
 	{
-		"url": "../img/tshirt-type-c.jpg",
+		"url": "img/tshirt-type-c.jpg",
 		"name": "T-Shirt Type C",
 		"price": 635.00,
 	},
 	{
-		"url": "../img/tshirt-type-d.jpg",
+		"url": "img/tshirt-type-d.jpg",
 		"name": "T-Shirt Type D",
 		"price": 480.00,
 	},
 	{
-		"url": "../img/tshirt-type-e.jpg",
+		"url": "img/tshirt-type-e.jpg",
 		"name": "T-Shirt Type E",
 		"price": 955.00,
 	},
 	//sweater type
 	{
-		"url": "../img/sweater-type-a.jpg",
+		"url": "img/sweater-type-a.jpg",
 		"name": "Sweater Type A",
 		"price": 464.00,
 	},
 	{
-		"url": "../img/sweater-type-b.jpg",
+		"url": "img/sweater-type-b.jpg",
 		"name": "Sweater Type B",
 		"price": 120.00,
 	},
 	{
-		"url": "../img/sweater-type-c.jpg",
+		"url": "img/sweater-type-c.jpg",
 		"name": "Sweater Type C",
 		"price": 735.00,
 	},
 	{
-		"url": "../img/sweater-type-d.jpg",
+		"url": "img/sweater-type-d.jpg",
 		"name": "Sweater Type D",
 		"price": 620.00,
 	},
 	{
-		"url": "../img/sweater-type-e.jpg",
+		"url": "img/sweater-type-e.jpg",
 		"name": "Sweater Type E",
 		"price": 240.00,
 	},
