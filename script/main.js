@@ -224,12 +224,12 @@ window.onload = function() {
 				createCartProductList(productList[index].url, productList[index].name, productList[index].price, cartList[index], index);
 			}
 
+			document.getElementById('no_cart_item_text').setAttribute("style", "display: none;");
 			updatePeyments();
 			updateDeleteList();
 			// console.log(cartList);
 		}
 	}
-
 }
 
 function updateDeleteList(){
@@ -305,7 +305,7 @@ function updatePeyments(){
 		tempDis = discount;	
 	}
 	else{
-		
+		document.getElementById('no_cart_item_text').setAttribute("style", "display: block;");
 		tempDis = 0;	
 	}
 	document.getElementById('discount_value').innerHTML = "BDT "+tempDis.toFixed(2);
