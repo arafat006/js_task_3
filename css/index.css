@@ -172,9 +172,8 @@ body{
 	overflow: hidden;
 	min-height: 110px;
 	max-height: 250px;
-	height: 19vh;
+	height: 9vw;
 	padding: 5px;
-	height: 19vh;
 }
 .productview-holder .products-holder .product-card .img-holder img{
 
